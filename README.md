@@ -2,7 +2,7 @@
 
 ## Descrição
 
-A Inclusivoo é plataforma de avaliação diagnóstica e capacitação para diversidade, uma solução desenvolvida para ajudar empresas a avaliarem e melhorarem suas práticas de diversidade e inclusão. Através de um diagnóstico detalhado, as empresas recebem insights sobre o estado atual de suas políticas de diversidade e têm acesso a treinamentos específicos para promover um ambiente de trabalho mais inclusivo.
+A Inclusivoo é plataforma de avaliação diagnóstica e capacitação para diversidade, uma solução desenvolvida para ajudar empresas a avaliarem e melhorarem suas práticas de diversidade e inclusão. Através de um diagnóstico detalhado, as empresas recebem insights sobre o estado atual de suas políticas de diversidade e têm acesso a treinamentos específicos para promover um ambiente de trabalho mais inclusivo e conquistar os Selos da Diversidade. 
 
 ## Funcionalidades
 
