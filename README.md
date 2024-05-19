@@ -71,10 +71,12 @@ Siga os passos abaixo para configurar e executar a plataforma localmente:
 ## Estrutura do Projeto
 
 - **public/**: Contém os arquivos públicos, como `index.php` e ativos (imagens, CSS, JS).
+  - **css/**: Arquivos de estilo (CSS) utilizados na aplicação.
+  - **fonts/**: Arquivos de fontes utilizados na aplicação.
+  - **images/**: Imagens utilizadas na aplicação.
+  - **js/**: Arquivos JavaScript utilizados na aplicação.
 - **src/**: Código fonte da aplicação, incluindo controladores, modelos e visualizações.
 - **database/**: Arquivos de migração e seeds do banco de dados.
-- **resources/**: Recursos como views e arquivos de tradução.
-- **routes/**: Arquivos de definição de rotas.
 
 ## Contribuição
 
